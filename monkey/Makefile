@@ -1,0 +1,3 @@
+
+monkey : *.c
+	gcc $+ -o $@
