@@ -1,0 +1,3 @@
+# this file define the max limit thread number
+
+MAXTHREAD=2048;
